@@ -10,7 +10,6 @@ The height value determines the height of two pyramids that will be printed on t
 Now you will be asked the left pyramid code: 
                                               code 0 will determine the printing of an empty pyramid, meaning that you will see the perimeter only.
                                               code 1 will determine the printing of a full pyramid, meaning that you will see the perimeter and the area.
-
 Another code is going to be asked you for the right pyramid.
                                               
                                               
@@ -18,6 +17,7 @@ Another code is going to be asked you for the right pyramid.
 Download the code from this repository and open it in the MARS simulator.
 In order to see the output you should enable the bitmap display under the "Tools" label on the top menu.
 Once the bitmap dispaly is placed, make sure that its four settings (Unit width, Unit Height, Display Width, Display Height) match the four ones declared in the code under .data
+
 DO NOT change the display's base address.
 Now, click on the "Connect to MIPS" button.
 
