@@ -8,10 +8,10 @@ unit_height:	.word 8	  #Altezza unità
 addr:		.word 0x10010000 #Indirizzo del display
 
 
-S0:	.asciiz "Codice piramide sinistra: "
-S1:	.asciiz "Codice piramide destra: "
-S3:	.asciiz "Altezza: "
-S4:	.asciiz "Input non valido"
+S0:	.asciiz "Left pyramid code: "
+S1:	.asciiz "Right pyramid code: "
+S3:	.asciiz "Height: "
+S4:	.asciiz "Not valid input"
 
 
 	.text
