@@ -4,7 +4,7 @@ This is a simple assembly project that uses MIPS ISA and runs on MARS, an IDE fo
 You can download MARS here: http://courses.missouristate.edu/kenvollmar/mars/download.htm
 
 
-##What does the program do
+## What does the program do
 The program asks for a height value (integer) and two codes (either 0 or 1) that you should digit.
 The height value determines the height of two pyramids that will be printed on the bitmap display.
 Now you will be asked the left pyramid code: 
@@ -14,7 +14,7 @@ Now you will be asked the left pyramid code:
 Another code is going to be asked you for the right pyramid.
                                               
                                               
-######Instructions:
+###### Instructions:
 Download the code from this repository and open it in the MARS simulator.
 In order to see the output you should enable the bitmap display under the "Tools" label on the top menu.
 Once the bitmap dispaly is placed, make sure that its four settings (Unit width, Unit Height, Display Width, Display Height) match the four ones declared in the code under .data
