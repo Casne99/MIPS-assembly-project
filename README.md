@@ -9,7 +9,7 @@ You can download Java here: https://www.java.com/it/download/manual.jsp
 
 ## What does the program do
 
-The program asks for a *height value* (integer) and *two codes* (either 0 or 1) that you should digit.
+The program asks for a **height value** (integer) and **two codes** (either 0 or 1) that you should digit.
 The height value determines the height of two pyramids that will be printed on the bitmap display.
 Once the height value is inserted you will be asked the left pyramid code: 
                                               code 0 will determine the printing of an empty pyramid, meaning that you will see the perimeter only.
