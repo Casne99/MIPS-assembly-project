@@ -23,7 +23,7 @@ Download the code from this repository and open it in the MARS simulator.
 In order to see the output you should enable the bitmap display under the "Tools" label on the top menu.
 Once the bitmap dispaly is placed, make sure that its four settings (Unit width, Unit Height, Display Width, Display Height) match the four ones declared in the code under **.data**
 
-You can change the display's base address, the value must match with the one stored in the *addr* variable under **.data**.
+You can change the display's base address, the value must match with the one stored in the *addr* variable under **.data**.  
 Now, click on the "Connect to MIPS" button.
 
 You are now ready to run the code:
