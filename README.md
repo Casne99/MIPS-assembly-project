@@ -1,6 +1,7 @@
 # MIPS-assembly-project
 
-This is a simple assembly project that uses MIPS ISA and runs on MARS, an IDE for MIPS Assembly Language Programming, **you'll need Java in order to run MARS**.
+This is a simple assembly project that uses MIPS ISA and runs on MARS, an IDE for MIPS Assembly Language Programming.  
+**You need Java in order to run MARS**.
 
 You can download MARS here: http://courses.missouristate.edu/kenvollmar/mars/download.htm  
 You can download Java here: https://www.java.com/it/download/manual.jsp
