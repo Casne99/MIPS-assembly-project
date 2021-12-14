@@ -4,7 +4,7 @@ This is a simple assembly project that uses MIPS ISA and runs on MARS, an IDE fo
 **You need Java installed on your computer in order to run MARS**.
 
 [MARS download](http://courses.missouristate.edu/kenvollmar/mars/download.htm)\
-[Java download](https://www.java.com/it/download/manual.jsp)
+[JAVA download](https://www.java.com/it/download/manual.jsp)
 
 
 ## What does the program do
