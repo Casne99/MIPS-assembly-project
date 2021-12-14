@@ -35,6 +35,6 @@ On a 256 x 256 display with 8 x 8 units the maximum height value is 15, you can 
 
 If the height value is too high for a given display or if you insert codes that are different from 0 and from 1 an error message will be printed on the console.
 
-You can change the pyramid's color in the **.data** segment by changing the *color* variable with the value of the 24-bit color code you want to use.  
+You can change the pyramid's color in the **.data** segment by assigning the *color* variable the value of the 24-bit color code you want to use. 
 Default is 0x8A33FF.
 
