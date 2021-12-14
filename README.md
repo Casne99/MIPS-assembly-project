@@ -3,6 +3,7 @@
 This is a simple assembly project that uses MIPS ISA and runs on MARS, an IDE for MIPS Assembly Language Programming, **you'll need Java in order to run MARS**.
 
 You can download MARS here: http://courses.missouristate.edu/kenvollmar/mars/download.htm
+You can download Java here: https://www.java.com/it/download/manual.jsp
 
 
 ## What does the program do
@@ -11,7 +12,7 @@ The program asks for a height value (integer) and two codes (either 0 or 1) that
 The height value determines the height of two pyramids that will be printed on the bitmap display.
 Once the height value is inserted you will be asked the left pyramid code: 
                                               code 0 will determine the printing of an empty pyramid, meaning that you will see the perimeter only.
-                                              code 1 will determine the printing of a full pyramid, meaning that you will see the perimeter and the area.
+                                              Code 1 will determine the printing of a full pyramid, meaning that you will see the perimeter and the area.
 Another code is going to be asked you for the right pyramid.
                                               
                                               
