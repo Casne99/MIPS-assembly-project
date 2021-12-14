@@ -31,7 +31,7 @@ You are now ready to run the code:
 First of all, **assemble the code**: you can do this by clicking on the icon with a wrench and a screwdriver on the top menu, then click on the icon on the right to run the program.
 You will be asked three values as stated in the "What does the program do" label of this README.
 Not all pyramids can be printed on the bitmap display. 
-On a 256 x 256 display with 8 x 8 units the maximum height value is 15, you can try the program with this settings.
+On a 256 x 256 display with 8 x 8 units the maximum height value is 15, you can try the program with these settings.
 
 If the height value is too high for a given display or if you insert codes that are different from 0 and from 1 an error message will be printed on the console.
 
