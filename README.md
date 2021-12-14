@@ -38,3 +38,5 @@ If the height value is too high for a given display or if you insert codes that 
 You can change the pyramid's color in the **.data** segment by assigning the *color* variable the value of the 24-bit color code you want to use. 
 Default is 0x8A33FF.
 
+In order to see how the pyramids are printed I added a sleeptime that causes the process to sleep for the number of milliseconds defined in the *sleeptime* variable under **.data**. The sleeptime syscall(code 32) is called in between the printing of every single unit of the pyramids.
+
