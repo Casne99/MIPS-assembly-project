@@ -7,7 +7,7 @@ DOWNLOAD:
 [MARS](http://courses.missouristate.edu/kenvollmar/mars/download.htm), [JAVA](https://www.java.com/it/download/manual.jsp)
 
 
-## What does the program do
+## How the program works
 
 The program asks for a **height value** (integer) and **two codes** (either 0 or 1) that you should digit.
 The height value determines the height of two pyramids that will be printed on the bitmap display.
